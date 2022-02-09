@@ -33,4 +33,7 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/webapp-cicd:latest
+<<<<<<< HEAD
           
+=======
+>>>>>>> be02b972ec2b79aedfd0e1a35341973404bebad2
